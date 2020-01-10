@@ -42,7 +42,7 @@ Pour accentuer un texte (en *italique* ou en *gras*, par exemple), il suffit d'e
 
 ```
 *Ce texte sera en italique*
-_ Ce texte sera également en italique_
+_Ce texte sera également en italique_
 
 **Ce texte sera en gras**
 __Ce texte sera également en gras__
@@ -50,4 +50,4 @@ __Ce texte sera également en gras__
 _Il est **possible** de les combiner_
 ```
 
-**Attention:** bien qu'il existe deux manières différentes d'accentuer son texte, celles-ci ne sont pas interchangeables (**cette portion de texte ne sera pas en gras__).
+**Attention:** bien qu'il existe deux manières différentes d'accentuer son texte, celles-ci ne sont pas interchangeables (**cette portion de texte ne sera pas en gras__)!
