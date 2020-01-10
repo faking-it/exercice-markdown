@@ -16,7 +16,7 @@ Sur **GitHub**, la syntaxe Markdown peut être utilisée à différents endroits
 
 Voici une vue d'ensemble de ce que la syntaxe Markdown permet de faire sur [GitHub](http://github.com) ou dans ses propres fichiers texte.
 
-##Titres
+## Titres
 
 # Ceci est un titre
 #### Ceci est également un titre
