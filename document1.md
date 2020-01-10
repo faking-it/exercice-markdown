@@ -14,4 +14,4 @@ Sur **GitHub**, la syntaxe Markdown peut être utilisée à différents endroits
 
 # Guide de la syntaxe
 
-Voici une vue d'ensemble de ce que la syntaxe Markdown permet de faire sur http://github.com - automatic! [GitHub.com] (http://github.com) ou dans ses propres fichiers texte.
+Voici une vue d'ensemble de ce que la syntaxe Markdown permet de faire sur [GitHub] (http://github.com) ou dans ses propres fichiers texte.
