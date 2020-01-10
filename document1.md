@@ -54,7 +54,7 @@ _Il est **possible** de les combiner_
 
 ## Listes
 
-Il y a deux types de listes: les listes à puces et les listes organisées. Markdown requiert des symboles différents en fonction de la liste utilisée.
+Il y a deux types de listes: les **listes à puces** et les **listes organisées**. Markdown requiert des symboles différents en fonction de la liste utilisée.
 
 ###### Listes à puces
 
@@ -80,7 +80,7 @@ Le symbole `*` permet la création d'une liste à puce. A noter qu'il est possib
 1. Une autre puce
     1. Et encore une autre puce !
 
-Pour créer une liste organisée, il suffit de commancer les portions de texte souhaitées par des numéros, suivis du symbole `.`.
+Pour créer une liste organisée, il suffit de commencer les portions de texte souhaitées par des numéros, suivis du symbole `.`.
 
 ```
 1. Une puce
