@@ -30,7 +30,7 @@ Le symbole `#` permet de configurer la ligne de texte qui suit comme étant un *
 ###### Ceci est toujours un titre
 ```
 
-## Accentuation
+## Emphase
 
 *Ce texte est en italique*
 
@@ -51,3 +51,40 @@ _Il est **possible** de les combiner_
 ```
 
 **Attention:** bien qu'il existe deux manières différentes d'accentuer son texte, celles-ci ne sont pas interchangeables (**cette portion de texte ne sera pas en gras__)!
+
+## Listes
+
+Il y a deux types de listes: les listes à puces et les listes organisées. Markdown requiert des symboles différents en fonction de la liste utilisée.
+
+###### Listes à puces
+
+* Une puce
+* Une autre puce
+    * Une sous-puce
+    * Une autre sous-puce
+* Et encore une autre puce !
+
+Le symbole `*` permet la création d'une liste à puce. A noter qu'il est possible de les imbriquer.
+
+```
+* Une puce
+* Une autre puce
+    * Une sous-puce
+    * Une autre sous-puce
+* Et encore une autre puce !
+```
+
+###### Listes organisées
+
+1. Une puce
+1. Une autre puce
+    1. Et encore une autre puce !
+
+Pour créer une liste organisée, il suffit de commancer les portions de texte souhaitées par des numéros, suivis du symbole `.`.
+
+```
+1. Une puce
+1. Une autre puce
+    1. Et encore une autre puce !
+
+```
