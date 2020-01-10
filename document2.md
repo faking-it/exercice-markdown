@@ -4,9 +4,7 @@
 * [Github Flavoured Markdown](./document2.md)
 ___
 
-<<<<<<< HEAD
-## **La syntaxe Markdown permet de créer des listes de tâches**, par exemple:
-=======
+
 # Github Flavoured Markdown ![Github_Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.6W_8IAAQAypCh-B3n4QA2QAAAA%26pid%3DApi&f=1)
 
 _[Github](www.gihub.com) utilise sa propre version du langage markdown. Elle rajoute quelques **features**_ interessante:
@@ -46,7 +44,7 @@ Exemple :
 ```
 
 **La syntaxe Markdown permet de créer des listes de tâches**, par exemple:
->>>>>>> 63602911e62796b2853061c49cfa4949e653d953
+
 
  **A faire:**
   - [x] Coder dans un éditeur de texte
@@ -58,11 +56,7 @@ Exemple :
   [ ] case décochée
   ```
 
-<<<<<<< HEAD
 ## **Markdown permet également de créer des tableaux** par exemple:
-=======
-**Markdown permet également de créer des tableaux** par exemple:
->>>>>>> 63602911e62796b2853061c49cfa4949e653d953
 
  Horaire | Lundi | Mardi
  ------------ | ------------- | -------------
@@ -82,11 +76,7 @@ Horaire | Lundi | Mardi
   ```
 
 
-<<<<<<< HEAD
 ## **Markdown permet quelques autres petites choses sympas:** par exemple:
-=======
-**Markdown permet quelques autres petites choses sympas:** par exemple:
->>>>>>> 63602911e62796b2853061c49cfa4949e653d953
 
   * Notifier un membre de votre équipe en utilisant @Username
   * Les emojis sont pris en charge :wink: ([feuille raccourci emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md))
