@@ -1,5 +1,5 @@
 
-* **La syntaxe Markdown permet de créer des listes de tâches**, par exemple:
+## **La syntaxe Markdown permet de créer des listes de tâches**, par exemple:
 
  **A faire:**
   - [x] Coder dans un éditeur de texte
@@ -8,11 +8,10 @@
   Il est possible de cocher ou non les cases de la liste de tâches:
   ```
   [x] case cochée
-
   [ ] case décochée
   ```
 
-* **Markdown permet également de créer des tableaux** par exemple:
+## **Markdown permet également de créer des tableaux** par exemple:
 
  Horaire | Lundi | Mardi
  ------------ | ------------- | -------------
@@ -32,7 +31,7 @@ Horaire | Lundi | Mardi
   ```
 
 
-* **Markdown permet quelques autres petites choses sympas:** par exemple:
+## **Markdown permet quelques autres petites choses sympas:** par exemple:
 
   * Notifier un membre de votre équipe en utilisant @Username
   * Les emojis sont pris en charge :wink: ([feuille raccourci emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md))
