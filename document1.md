@@ -39,3 +39,7 @@ De la même manière il suffit de preciser votre alt entre crochet et le lien en
 ![copy_Paste](https://wanna-joke.com/wp-content/uploads/2014/09/funny-copy-paste-meme.jpg)
 
 >Notez que vous pouvez copier le lien via un simple click droit + copier le lien de l'image.
+
+
+[Lire la suite](./document2.md)
+[Retour vers le README](./readme.md)
