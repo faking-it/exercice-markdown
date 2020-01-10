@@ -29,3 +29,25 @@ Le symbole `#` permet de configurer la ligne de texte qui suit comme étant un *
 #### Ceci est également un titre
 ###### Ceci est toujours un titre
 ```
+
+## Accentuation
+
+*Ce texte est en italique*
+
+**Ce texte est en gras**
+
+_Il est **possible** de les combiner_
+
+Pour accentuer un texte (en *italique* ou en *gras*, par exemple), il suffit d'entourer la portion de texte souhaitée par les symboles `*`ou `_`(italique), ou `**`ou `__`(gras).
+
+```
+*Ce texte sera en italique*
+_ Ce texte sera également en italique_
+
+**Ce texte sera en gras**
+__Ce texte sera également en gras__
+
+_Il est **possible** de les combiner_
+```
+
+**Attention:** bien qu'il existe deux manières différentes d'accentuer son texte, celles-ci ne sont pas interchangeables (**cette portion de texte ne sera pas en gras__).
