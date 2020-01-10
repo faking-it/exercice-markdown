@@ -18,8 +18,8 @@ Voici une vue d'ensemble de ce que la syntaxe Markdown permet de faire sur [GitH
 
 ## Titres
 
-# Ceci est un titre
-#### Ceci est également un titre
+### Ceci est un titre
+##### Ceci est également un titre
 ###### Ceci est toujours un titre
 
 Le symbole `#` permet de configurer la ligne de texte qui suit comme étant un **titre**. Il peut être utilisé *plusieurs fois* afin de créer un sous-titre à chaque fois moins important.
