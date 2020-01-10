@@ -21,7 +21,7 @@ Pour désigner un mot ou une phrase comme code, placez-le entre guillemets (`).
 
 L'ajout d'image peut se faire de 2 manières:
 - **Localement :** 
-Il vous suffit de proceder de cette façon. 
+Il suffit de preciser votre alt entre crochet et le lien entre parenthèse. 
 ![image alt]
 (cheminVersImage/nomImage.extention)
 
@@ -31,6 +31,7 @@ Il vous suffit de proceder de cette façon.
 
 - **Via url :**
 De la même manière il suffit de preciser votre alt entre crochet et le lien entre parenthèse.
+
 ![image alt]
 (https://lieuHebergementDeImage.com/ouSeTrouve/nomImage.extention)
 
