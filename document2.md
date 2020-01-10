@@ -1,7 +1,7 @@
 # Menu
-* [README.ME](https://github.com/faking-it/exercice-markdown/blob/master/readme.md)
-* [Markdown](https://github.com/faking-it/exercice-markdown/blob/master/document1.md)
-* [Github Flavoured Markdown](https://github.com/faking-it/exercice-markdown/blob/master/document2.md)
+* [README.ME](.readme.md)
+* [Markdown](./document1.md)
+* [Github Flavoured Markdown](./document2.md)
 ___
 
 # Github Flavoured Markdown ![Github_Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.6W_8IAAQAypCh-B3n4QA2QAAAA%26pid%3DApi&f=1)
@@ -60,4 +60,4 @@ donnera
 
 ___
 
-[Retour vers le README](https://github.com/faking-it/exercice-markdown/blob/master/readme.md)
+[Retour vers le README](./readme.md)
