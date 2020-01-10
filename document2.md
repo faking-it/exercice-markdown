@@ -37,4 +37,4 @@ Horaire | Lundi | Mardi
   * Notifier un membre de votre équipe en utilisant @Username
   * Les emojis sont pris en charge :wink: ([feuille raccourci emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md))
 
-    ![](/home/becode/Images/itseasy.gif) 
+    ![](https://tenor.com/view/simple-easy-easy-game-easy-life-deal-with-it-gif-9276124) 
