@@ -1,4 +1,4 @@
-##Inline code
+## Inline code
 Pour désigner un mot ou une phrase comme code,placez-le entre guillemets (`).
 
 **Cela se présente de cette manière :**
